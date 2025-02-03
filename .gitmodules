@@ -1,7 +1,7 @@
 [submodule "submodules/moduleA"]
 	path = submodules/moduleA
 	url = https://github.com/VicccccW/submodule-demo-mono.git
-	branch = moduleA/v1.0.0
+	branch = moduleA/v1.1.0
 [submodule "submodules/moduleB"]
 	path = submodules/moduleB
 	url = https://github.com/VicccccW/submodule-demo-mono.git
