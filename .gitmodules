@@ -6,3 +6,7 @@
 	path = submodules/moduleB
 	url = https://github.com/VicccccW/submodule-demo-mono.git
 	branch = moduleB/v1.0.0
+[submodule "submodules/moduleC"]
+	path = submodules/moduleC
+	url = https://github.com/VicccccW/submodule-demo-mono.git
+	branch = moduleC/v1.0.0
