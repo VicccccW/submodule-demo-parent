@@ -1,0 +1,4 @@
+[submodule "submodules/moduleA"]
+	path = submodules/moduleA
+	url = https://github.com/VicccccW/submodule-demo-mono.git
+	branch = moduleA/v1.0.0
